@@ -1,10 +1,10 @@
-# Neuraesthetic-Variables-Measures
+# Neuroaesthetic-Variables-Measures
 A collection of scripts that measure 'neuroaesthetic' variables such as symmetry, balance, complexity, etc in images.
 
 A detailed description of the measures can be found here
 https://www.frontiersin.org/articles/10.3389/fnhum.2017.00094/full
 
-Instructions for using scripts.
+## Instructions for using scripts.
 
 1. Set the paths to save the data in the body of the files;
 2. Run woComplexity, choosing from two to six paintings;
@@ -26,3 +26,9 @@ f. Thickness of the Balance Line is in the variable thickness;
 g. Index of Chiaroscuro Extremes is in the variable chiaroscuroindex; 
 
 h. Index of Chiaroscuro Intensities in in the variable COind1.
+
+## Stimuli
+
+"DataForSupplementaryMaterials.xlsx" contains unique ARTSTOR www.artstor.org identifiers of all painting images
+used. In addition it also contains the raw data for each of these paintings obtained from the measures.
+
